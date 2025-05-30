@@ -13,3 +13,12 @@ FileMover/
 ├── input/ # Folder to place files to be moved
 ├── output/ # Destination folder for moved files
 └── README.md # Project documentation
+## 🚀 How to Use
+
+
+1. **Place Files**
+Put any files you want to move into the input folder.
+
+2. **Run the Program**
+Run the script using Python:
+python main.py
